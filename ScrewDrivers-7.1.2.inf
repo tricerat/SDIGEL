@@ -1,0 +1,7 @@
+[INFO]
+[PART]
+file="tricerat_amd64_7.1.2_igel.tar.bz2"
+version="7.1.2"
+size="300M"
+name="zoom"
+minfw="11.05.100"
