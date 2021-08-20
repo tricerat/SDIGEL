@@ -1,7 +1,7 @@
 [INFO]
 [PART]
-file="tricerat_amd64_7.1.2_igel.tar.bz2"
+file="tricerat-screwdrivers-7.1.2-igel.tar.gz"
 version="7.1.2"
-size="300M"
+size="64M"
 name="tricerat"
 minfw="11.05.100"
